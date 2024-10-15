@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT" verbose="0">
+  <listeners>
+    <listener class-name="coverfoxUtility.Listener"/>
+    <listener class-name="coverfoxUtility.ExtentReporterNG"/>
+  </listeners>
+  <test thread-count="5" name="Test(failed)" verbose="0">
+    <classes>
+      <class name="coverfoxTest.CoverfoxTC1_ByExcelAndTestNG">
+        <methods>
+          <include name="closeBrowser"/>
+          <include name="validateBanners"/>
+          <include name="validatePresenceOfSortButton"/>
+          <include name="launchBrowser"/>
+          <include name="preconditions"/>
+        </methods>
+      </class> <!-- coverfoxTest.CoverfoxTC1_ByExcelAndTestNG -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

@@ -1,0 +1,14 @@
+2024-09-16 16:59:37,129 - CoverfoxProject -INFO - open browser
+2024-09-16 16:59:48,931 - CoverfoxProject -INFO - Clicking on Gender button
+2024-09-16 16:59:52,327 - CoverfoxProject -INFO - Clicking on next button
+2024-09-16 16:59:54,605 - CoverfoxProject -WARN - enters age between 18-90
+2024-09-16 16:59:54,610 - CoverfoxProject -INFO - Handeling age drop down
+2024-09-16 16:59:58,028 - CoverfoxProject -INFO - Clicking on next button
+2024-09-16 17:00:00,293 - CoverfoxProject -WARN - please enter valid pin code
+2024-09-16 17:00:00,296 - CoverfoxProject -INFO - entering pin code
+2024-09-16 17:00:02,579 - CoverfoxProject -WARN - please enter valid mobile number
+2024-09-16 17:00:02,597 - CoverfoxProject -INFO - entering mobile number
+2024-09-16 17:00:04,894 - CoverfoxProject -INFO - Clicking on continue button
+2024-09-16 17:00:11,218 - CoverfoxProject -INFO - validating Banners
+2024-09-16 17:00:15,448 - CoverfoxProject -INFO - validating presence of sort button
+2024-09-16 17:00:15,747 - CoverfoxProject -INFO - closing browser

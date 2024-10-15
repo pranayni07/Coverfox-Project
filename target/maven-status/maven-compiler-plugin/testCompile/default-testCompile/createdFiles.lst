@@ -1,0 +1,5 @@
+coverfoxTest\CoverfoxTC1_ByExcelAndTestNG.class
+coverfoxTest\CoverfoxTC_ByExcel.class
+coverfoxUtility\Listener.class
+coverfoxUtility\ExtentReporterNG.class
+coverfoxUtility\Utility.class
